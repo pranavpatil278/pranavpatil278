@@ -9,5 +9,5 @@
 - HTML, CSS & JavaScript
 
 📫 Connect with me:
-- GitHub: https://github.com/YourUsername
-- Instagram: https://www.instagram.com/pranav_patil_2784/
+- Email: pranavpatil83690@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pranav-patil-5a3a793aa 
