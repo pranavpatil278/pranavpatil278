@@ -14,6 +14,3 @@ Hi there, I'm Pranav 👋<br>💻 Aspiring Software Developer<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranavpatil278&limit=5&theme=dark&combine_all_yearly_contributions=true)
