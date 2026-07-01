@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Pranav 👋<br>💻 Aspiring Software Developer<br><br>🌱 Currently learning:<br><br>Python<br>Flask<br>SQL<br>HTML, CSS & JavaScript<br>📫 Connect with me:<br><br>Email: pranavpatil83690@gmail.com<br>LinkedIn: https://www.linkedin.com/in/pranav-patil-5a3a793aa
+Hi there, I'm Pranav 👋<br>💻 Aspiring Software Developer<br><br>
 
 
 ## 🌐 Socials:
