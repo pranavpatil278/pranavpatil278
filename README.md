@@ -13,7 +13,7 @@ Hi there, I'm Pranav 👋<br>💻 Aspiring Software Developer<br><br>🌱 Curren
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranavpatil278&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?pranavpatil278=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/pranavpatil278=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
