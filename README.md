@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there, I'm Pranav 👋<br>💻 Aspiring Software Developer<br>
+<br>Hi there, I'm Pranav 👋<br>💻 Aspiring AI/ML Developer<br>
 
 
 ## 🌐 Socials:
